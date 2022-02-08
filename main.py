@@ -24,3 +24,7 @@ if __name__ == '__main__':
 # add hello world to script
 
 print('helloWorld')
+
+# add my name
+
+print('Sally')
