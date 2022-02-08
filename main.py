@@ -17,4 +17,6 @@ if __name__ == '__main__':
 
 # add a comment
 
-# making an edit to the code 
+# making an edit to the code
+
+# make a change to code which will be a new commit 
